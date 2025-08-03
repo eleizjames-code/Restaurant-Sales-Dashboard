@@ -16,19 +16,19 @@ This dashboard provides a comprehensive overview of Tastescape Restaurant's perf
 <p align="center">
   <img src="https://github.com/eleizjames-code/Restaurant-Sales-Dashboard/blob/main/Revenue%20Insights%20(PNG).png?raw=true" alt="Tastescape Restaurant Sales Dashboard" width="80%">
 </p>
-<p align="center"><b>Figure 3:</b> Revenue Insight</p>
+<p align="center"><b>Figure 3:</b> Revenue Insights</p>
 
 ## Dataset Used
 <a href = "https://github.com/eleizjames-code/Restaurant-Sales-Dashboard/raw/refs/heads/main/Tastescape%20Restaurant%20Sales%20Dashboard.xlsx"> Tastescape Restaurant Data </a>
 
-## Key Questions:
+## Key Questions
 1. What are the trends in revenue, orders, and customers over the 3-month period?
 2. Which food categories and items perform best in terms of revenue, orders, and customer preference?
 3. When are the peak ordering times and which days contribute the most revenue?
 4. What share of business is contributed by the top 5 items versus other menu offerings?
 5. Which months or weeks contribute the most to overall performance?
 
-## Insights:
+## Insights
 - **Overall Growth**: There is a consistent positive trend in performance from February to March:
     - Revenue increased by 7.52%
     - Orders by 7.55%
@@ -51,10 +51,10 @@ This dashboard provides a comprehensive overview of Tastescape Restaurant's perf
   - Highest revenue days are Monday (26K) and Tuesday (23.4K).
   - Wednesday (19.9K) is the lowest performing day.
 
-## Conslusion:
+## Conslusion
   Tastescape Restaurant shows a healthy and consistent growth trend with a broad customer base and diverse menu appeal. While Asian cuisine is most favored by customers and in order volume, Italian dishes bring in the highest revenue. Time and day trends highlight lunchtime and early evening as peak order periods, with the beginning of the week bringing in the highest revenue.
 
-## Recommendations:
+## Recommendations
 1. Promote High Revenue Items: Focus marketing around top revenue items like Korean Beef Bowl and Spaghetti & Meatballs, especially during off-peak days like Wednesday.
 2. Optimize Staffing and Inventory: Ensure sufficient staff and ingredient supply during peak hours (12 PM, 1 PM, 5 PM) and on high-revenue days (Mon/Tue).
 3. Diversify Menu Strategy: Since the top 5 items contribute to less than 30% of business, continue offering variety while promoting hidden high-margin items.

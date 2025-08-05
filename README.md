@@ -60,7 +60,7 @@ This dashboard provides a comprehensive overview of Tastescape Restaurant's perf
   - Highest revenue days are Monday (26K) and Tuesday (23.4K).
   - Wednesday (19.9K) is the lowest performing day.
 
-## Conslusion
+## Conclusion
   Tastescape Restaurant shows a healthy and consistent growth trend with a broad customer base and diverse menu appeal. While Asian cuisine is most favored by customers and in order volume, Italian dishes bring in the highest revenue. Time and day trends highlight lunchtime and early evening as peak order periods, with the beginning of the week bringing in the highest revenue.
 
 ## Recommendations

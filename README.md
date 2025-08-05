@@ -19,7 +19,7 @@ This dashboard provides a comprehensive overview of Tastescape Restaurant's perf
 <p align="center"><b>Figure 3:</b> Revenue Insights</p>
 
 ## Dataset Used
-<a href = "https://github.com/eleizjames-code/Restaurant-Sales-Dashboard/raw/refs/heads/main/Tastescape%20Restaurant%20Sales%20Dashboard.xlsx"> Tastescape Restaurant Data </a>
+<a href = "https://github.com/eleizjames-code/Tastescape-Restaurant-Dashboard/raw/refs/heads/main/Tastescape%20Restaurant%20Dashboard.xlsx"> Tastescape Restaurant Data </a>
 
 ## Key Questions
 1. What are the trends in revenue, orders, and customers over the 3-month period?

@@ -35,7 +35,7 @@ This dashboard provides a comprehensive overview of Tastescape Restaurant's perf
 4. Created **measures**and used formulas (e.g., VLOOKUP, INDEX-MATCH, LARGE, MAX etc.).
 5. Built **Pivot Tables** and Charts to generate KPIs and trends.
 6. Added **slicers** and **option buttons** for filtering and interaction.
-7. Designed a clear, interactive **dashboard **for analysis.
+7. Designed a clear, interactive **dashboard**for analysis.
 
 ## Insights
 - **Overall Growth**: There is a consistent positive trend in performance from February to March:

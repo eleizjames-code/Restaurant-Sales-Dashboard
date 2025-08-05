@@ -1,4 +1,4 @@
-# Tastescape Restaurant Analytics
+# Tastescape Restaurant Dashboard
 
 ## Overview
 This dashboard provides a comprehensive overview of Tastescape Restaurant's performance over a 13-week  period, focusing on revenue, orders, and customer behavior. It highlights key metrics, category and item  performance, time-based patterns, and actionable insights to support data-driven decision-making.
@@ -27,6 +27,15 @@ This dashboard provides a comprehensive overview of Tastescape Restaurant's perf
 3. When are the peak ordering times and which days contribute the most revenue?
 4. What share of business is contributed by the top 5 items versus other menu offerings?
 5. Which months or weeks contribute the most to overall performance?
+
+## Process
+1. **Extract**: Imported data from a CSV file using Excel’s **Get Data**.
+2. **Transform**: Cleaned and formatted the data in** Power Query**.
+3. **Load**: Loaded the data into the **Excel Data Model (Power Pivot)**.
+4. Created **measures**and used formulas (e.g., VLOOKUP, INDEX-MATCH, LARGE, MAX etc.).
+5. Built **Pivot Tables** and Charts to generate KPIs and trends.
+6. Added **slicers** and **option buttons** for filtering and interaction.
+7. Designed a clear, interactive **dashboard **for analysis.
 
 ## Insights
 - **Overall Growth**: There is a consistent positive trend in performance from February to March:

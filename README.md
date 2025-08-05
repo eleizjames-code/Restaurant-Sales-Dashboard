@@ -30,7 +30,7 @@ This dashboard provides a comprehensive overview of Tastescape Restaurant's perf
 
 ## Process
 1. **Extract**: Imported data from a CSV file using Excel’s **Get Data**.
-2. **Transform**: Cleaned and formatted the data in** Power Query**.
+2. **Transform**: Cleaned and formatted the data in**Power Query**.
 3. **Load**: Loaded the data into the **Excel Data Model (Power Pivot)**.
 4. Created **measures**and used formulas (e.g., VLOOKUP, INDEX-MATCH, LARGE, MAX etc.).
 5. Built **Pivot Tables** and Charts to generate KPIs and trends.
